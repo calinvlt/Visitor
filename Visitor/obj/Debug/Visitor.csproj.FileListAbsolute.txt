@@ -1,0 +1,6 @@
+C:\Scratch\Design Patterns\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Scratch\Design Patterns\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Scratch\Design Patterns\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Scratch\Design Patterns\Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Scratch\Design Patterns\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Scratch\Design Patterns\Visitor\Visitor\obj\Debug\Visitor.pdb
